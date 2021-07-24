@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-Hi! I'm Laurie. I like to learn and explore. 
+Hi, I'm Lauren! I like to learn and explore. 
