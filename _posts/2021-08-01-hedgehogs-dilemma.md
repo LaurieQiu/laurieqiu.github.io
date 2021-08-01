@@ -2,6 +2,8 @@
 layout: post
 title: Hedgehog's dilemma
 ---
-I first learned about [this metaphor](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma) when watching *Neon Genesis Evangelion (EVA)*. Recently it just keeps recurring in my mind, as I felt like Shinji. I don't like Shinji, as does a lot of people, because of his cowardice. But sometimes I just felt that I'm just like him, and could start sympathized with him - Shinji's cowardice actually stems from his self-loathing and depression.
+I first learned about [this metaphor](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma) when watching *Neon Genesis Evangelion (EVA)*. Recently it just keeps recurring in my mind, as I felt like Shinji. 
+
+I don't like Shinji, as does a lot of people, because of his cowardice. But sometimes I just felt that I'm just like him, and could start sympathized with him - Shinji's cowardice actually stems from his self-loathing and depression.
 
 Although I don't have trauma as deep as Shinji (maybe actually I do, who knows), I've long been facing the same hedgehog's dilemma. It's something I'm supposed to fix, but don't really know how. 
