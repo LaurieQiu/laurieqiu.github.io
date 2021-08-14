@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Chinese to English translation
+title: tips for Chinese to English translation
 ---
 
 I think translating is also kind of like solving problems. You may come across something that could not be easily translated into another language and have to find a way to get around that.
