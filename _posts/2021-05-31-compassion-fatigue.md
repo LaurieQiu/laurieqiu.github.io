@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compassion fatigue
+title: compassion fatigue
 ---
 
 Here are the excerpts from a BBC learning English feature - [Compassion fatigue](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english/ep-210527). I ran into this feature today. 
