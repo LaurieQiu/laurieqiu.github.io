@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skateboarding as a way of life
+title: skateboarding as a way of life
 ---
 
 I like people who are really into skateboarding, doing it as an expression of their love for life and freedom. I respect their courage.
