@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use RSS
+title: how to use RSS
 ---
 
 It's actually very easy. First, install an RSS reader, such as *Feedly*. Then,  follow the first 3 steps as listed below and you can figure out the rest  without having to refer to further steps.
