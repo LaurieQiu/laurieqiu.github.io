@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is curing patients a sustainable business model?
+title: is curing patients a sustainable business model?
 ---
 
 What we should opt for, a permanent cure for patients or sustainable business growth? Would the two be less incompatible?
