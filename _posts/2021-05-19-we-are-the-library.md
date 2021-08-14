@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we are the library
+title: We are the library
 ---
 
 I think this ["We are the library"](https://old.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/) mission is really cool, and it's inspiring to see what the people supporting it are doing and planning to do.
