@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventures with anxiety
+title: adventures with anxiety
 ---
 
 Procrastinating on what I need to do, I played an interactive game about [anxiety](https://ncase.me/anxiety), and read the author's [mental health tips & resources](https://ncase.me/mental-health). 
