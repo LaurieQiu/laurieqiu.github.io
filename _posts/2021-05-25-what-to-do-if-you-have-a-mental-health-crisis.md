@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what to do if you have a mental health crisis?
+title: What to do if you have a mental health crisis?
 ---
 
 Things don't always go well. When bad things happen, we can handle them better if we know in advance what they might be and what the possible solutions are.
