@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dollars trilogy
+title: dollars trilogy
 ---
 
 Just finished watching *[Dollars Trilogy](https://en.wikipedia.org/wiki/Dollars_Trilogy)*. Both the films, which are directed by [Sergio Leone](https://en.wikipedia.org/wiki/Sergio_Leone), and the music score composed by [Ennio Morricone](https://en.wikipedia.org/wiki/Ennio_Morricone) are impressive.
