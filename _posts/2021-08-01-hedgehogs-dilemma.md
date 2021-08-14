@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hedgehog's dilemma
+title: Hedgehog's dilemma
 ---
 I first learned about [this metaphor](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma) when watching *Neon Genesis Evangelion (EVA)*. Recently it just keeps recurring in my mind, as I felt like Shinji. 
 
