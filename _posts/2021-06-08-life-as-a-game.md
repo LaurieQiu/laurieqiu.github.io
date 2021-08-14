@@ -1,6 +1,6 @@
 ---
 layout: post
-title: life as a game
+title: Life as a game
 ---
 
 I read [an article](https://www.notboring.co/p/the-great-online-game) several days ago, and some of the ideas kept lingering in my mind: 
