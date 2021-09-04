@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: As lightwight as popcorn
+title: As lightweight as popcorn
 ---
 
 Here's a quote from bill wurtz. I would just leave his name and quotes like that as he prefers lower case. 
