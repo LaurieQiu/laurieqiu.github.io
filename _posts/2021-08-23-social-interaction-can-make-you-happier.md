@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social interaction can make you happier
+title: Interact with people can make you happier
 ---
 
 > Although time and technology marched on, arcades always had a certain charm that couldn’t be replaced by better graphics or central processing units. They were places you could go out of nostalgia, time machines to another era, and, most importantly, where you could interact with like-minded people. This appeal wasn’t limited to traditional gamers; in 2010 Nikkei [reported](https://www.nikkei.com/article/DGXNASDG0901M_Z21C10A1CC0000/) that arcades were increasingly becoming social hubs for the elderly. One 65-year-old said going to the arcade and making loads of friends was “like being in a dream.”
