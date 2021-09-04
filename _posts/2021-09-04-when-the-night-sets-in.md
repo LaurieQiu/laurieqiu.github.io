@@ -1,6 +1,6 @@
 ---
 layout: post
-title: when the night sets in
+title: When the night sets in
 ---
 When the night sets in, it's just great. 
 
