@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-This too shall pass.
+may youth never gone
