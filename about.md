@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-To understand. And hopefully, to be understood.
+This too shall pass.
