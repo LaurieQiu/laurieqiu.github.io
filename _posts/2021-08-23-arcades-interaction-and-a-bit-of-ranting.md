@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Socializing can make you happier
+title: Arcades, interaction, and a bit of ranting
 ---
 
-> Although time and technology marched on, arcades always had a certain charm that couldn’t be replaced by better graphics or central processing units. They were places you could go out of nostalgia, time machines to another era, and, most importantly, where you could interact with like-minded people. This appeal wasn’t limited to traditional gamers; in 2010 Nikkei [reported](https://www.nikkei.com/article/DGXNASDG0901M_Z21C10A1CC0000/) that arcades were increasingly becoming social hubs for the elderly. One 65-year-old said going to the arcade and making loads of friends was “like being in a dream.”
+> Although time and technology marched on, arcades always had a certain charm that couldn’t be replaced by better graphics or central processing units. They were places you could go out of nostalgia, time machines to another era, and, most importantly, where you could interact with like-minded people. 
+> 
+> 
+> This appeal wasn’t limited to traditional gamers; in 2010 Nikkei [reported](https://www.nikkei.com/article/DGXNASDG0901M_Z21C10A1CC0000/) that arcades were increasingly becoming social hubs for the elderly. One 65-year-old said going to the arcade and making loads of friends was “like being in a dream.”
 
 Read an [article](https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/) about gaming arcades today. Also have a bit of interaction with unfamiliar people today, which surprisingly lift me up, although I'm still socially awkward and that interaction is also a bit awkward. 
 
