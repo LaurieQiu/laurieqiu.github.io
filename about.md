@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-This too shall pass.
+Random stuff written by a random being.
