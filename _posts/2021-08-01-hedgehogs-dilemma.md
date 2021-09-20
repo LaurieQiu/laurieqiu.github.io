@@ -2,7 +2,9 @@
 layout: post
 title: Hedgehog's dilemma
 ---
-> The hedgehog's dilemma, or sometimes the porcupine dilemma, is a metaphor about the challenges of human intimacy. It describes a situation in which a group of hedgehogs seek to move close to one another to share heat during cold weather. They must remain apart, however, as they cannot avoid hurting one another with their sharp spines. Though they all share the intention of a close reciprocal relationship, this may not occur, for reasons they cannot avoid.
+> It describes a situation in which a group of hedgehogs seek to move close to one another to share heat during cold weather. 
+> 
+> They must remain apart, however, as they cannot avoid hurting one another with their sharp spines. Though they all share the intention of a close reciprocal relationship, this may not occur, for reasons they cannot avoid.
 
 I first learned about [this metaphor](https://en.wikipedia.org/wiki/Hedgehog's_dilemma) when watching *Neon Genesis Evangelion (EVA)*. Recently it just kept recurring in my mind, as I felt like Shinji.
 
