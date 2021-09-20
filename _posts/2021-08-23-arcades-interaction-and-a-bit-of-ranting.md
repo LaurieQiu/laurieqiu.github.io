@@ -14,3 +14,5 @@ To give it some context, I have some boring tasks to do today, it's also quite m
 This somewhat proves the point in the arcade article: social interaction can make you happier. 
 
 And some good news for the shy people guys: not only face to face meetup can play the magic, online interaction can work magic too, as suggested by *[Video games 'good for well-being', says University of Oxford study](https://www.bbc.com/news/technology-54954622).* 
+
+Revised on Sep 20.
