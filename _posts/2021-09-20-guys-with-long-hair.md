@@ -4,7 +4,9 @@ title: Guys with long hair
 
 ---
 
-Guys with long hair, girls with tattoos, and people who seem eccentric but are comfortable with that...They are cool. As long as what they show is really what they love and believe in.
+Guys with long hair, girls with tattoos, and people who seem eccentric but are comfortable with that...They are cool. 
+
+As long as what they show is really what they love and believe in.
 
 Sometimes I'm quite quite weak and stressed when I have to deal with all those so called normal people and social situations. What I hate about myself is that I conform, unconsciously, in those situations where I have to participate. But I just can't blend in well. Yeah, just admit that. Just admit that. I can't fake it. And if I said something which is really uncool in retrospect, I just want to destroy myself... I just bend, bend in these situations. Although no normal human beings actually care about what I did, I feel quite quite stressful having to act like normal human beings in situations like that. 
 
