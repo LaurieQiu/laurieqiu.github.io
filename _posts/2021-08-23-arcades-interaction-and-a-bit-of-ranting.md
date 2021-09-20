@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arcades, interaction, and a bit of ranting.
+title: Arcades, interaction, and a bit of ranting
 ---
 
 Read an [article](https://www.japantimes.co.jp/life/2021/06/06/digital/japanese-gaming-arcades-pandemic/) about gaming arcades today. 
