@@ -4,18 +4,18 @@ layout: post
 title: As lightweight as popcorn
 ---
 
+Two quotes from bill wurtz.
+
 > why is popcorn wonderful?
 >
 > because it's so lightweight
 
-Being lightweight in spirit is a bless. The equivalent of this should be _carefree_. 
-
-I'm feeling much much better now. Guess the hardest part have gone. Now I have enough autonomy and a much clearer direction of where to go.
-
-As for where to go, here's another quote from bill wurtz. 
+It's wonderful to be lightweight or carefree from time to time, if not all the time.
 
 > what do you do when you like someone?
 >
-> try to be more like them, usually
+> try to be more like them, usually 
+
+I like people who are the few and dare to be the few.
 
 P.S. bill wurtz always uses lower case.
