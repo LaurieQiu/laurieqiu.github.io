@@ -4,7 +4,7 @@ title: Guys with long hair
 
 ---
 
-Guys with long hair, girls with tattoos, and people who seem eccentric but are comfortable with that...They are cool. 
+Guys with long hair, girls with tattoos, and all those seemingly eccentric people...They are cool. 
 
 As long as what they show is really what they love and believe in.
 
