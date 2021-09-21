@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-Random stuff written by a random being.
+An experiment.
